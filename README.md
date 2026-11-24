@@ -41,4 +41,4 @@ python3 main.py
 - Graphical user interface
 
 ## Author
-[Your Name]
+Aditya Shinde.
